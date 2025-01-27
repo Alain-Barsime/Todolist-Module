@@ -52,7 +52,7 @@ function ToDoList(){
   return(
     <>
     <div className="container">
-      <h1>Manage them, You will...</h1>
+      <h1>Here you can edit your tasks trajectory</h1>
     </div>
 
     <div className="inputDiv">
